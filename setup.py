@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-to-End-Chest-cancer-classification-project"
 AUTHOR_USER_NAME = "rdx7211"
-SRC_REPO = "CNN-Classifier"
+SRC_REPO = "CNN_Classifier"
 AUTHOR_EMAIL = "souvikchoudhury582@gmail.com"
 
 setuptools.setup(
