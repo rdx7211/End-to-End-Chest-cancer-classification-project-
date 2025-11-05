@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/souvik%20projects/End-to-End-Chest-cancer-classification-project-/mlruns/0/5708898798b74f17ac9bc18994e80d98/artifacts
+end_time: 1762235523061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5708898798b74f17ac9bc18994e80d98
+run_name: enthused-pug-742
+run_uuid: 5708898798b74f17ac9bc18994e80d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762235510030
+status: 3
+tags: []
+user_id: bulan

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/souvik%20projects/End-to-End-Chest-cancer-classification-project-/mlruns/0/def04ec5f75f4dc4a0fdf3338980895f/artifacts
+end_time: 1762221499527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: def04ec5f75f4dc4a0fdf3338980895f
+run_name: beautiful-colt-791
+run_uuid: def04ec5f75f4dc4a0fdf3338980895f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221458805
+status: 4
+tags: []
+user_id: bulan

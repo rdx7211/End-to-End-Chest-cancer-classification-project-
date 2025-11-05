@@ -14,4 +14,7 @@ prepare_base_model:
 
 training:
   root_dir: artifacts/training
-  trained_model_path: artifacts/training/model.h5  
+  trained_model_path: artifacts/training/model.h5
+
+mlflow_config:
+  mlflow_uri: https://dagshub.com/rdx7211/End-to-End-Chest-cancer-classification-project-.mlflow  
