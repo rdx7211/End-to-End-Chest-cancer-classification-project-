@@ -2,7 +2,7 @@ AUGMENTATION: True
 IMAGE_SIZE: [224, 224, 3] # as per VGG 16 model
 BATCH_SIZE: 16
 INCLUDE_TOP: False
-EPOCHS: 1
+EPOCHS: 10           # try 10 for now, can increase to 20 later
 CLASSES: 2
 WEIGHTS: imagenet
-LEARNING_RATE: 0.01
+LEARNING_RATE: 0.0001   # much lower LR for fine-tuning pretrained model
