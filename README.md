@@ -1,25 +1,43 @@
-# End-to-End-Chest-Cancer-Classification-project
+# 🩺 End-to-End Chest Cancer Classification Project
 
+https://github.com/rdx7211/End-to-End-Chest-cancer-classification-project-/releases/download/v1.0/demo.mp4
 
-## Workflows
+> 🎥 *Watch the project demo above to see the full workflow in action!*
 
-1. Update config.yaml
-2. Update secrets.yaml [Optional]
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the dvc.yaml
+---
 
+## 🚀 Overview
 
+This project builds a complete **end-to-end machine learning pipeline** for **Chest Cancer Classification**, covering data ingestion, training, evaluation, experiment tracking, and CI/CD deployment using **AWS** and **GitHub Actions**.
 
+It demonstrates:
+- ML pipeline orchestration with **DVC**
+- Experiment tracking with **MLflow**
+- Model versioning and storage with **DagsHub**
+- Containerization with **Docker**
+- Continuous Integration & Deployment using **GitHub Actions**
+- Cloud deployment on **AWS EC2 + ECR**
 
+---
 
-## MLflow
+## ⚙️ Workflows
 
-- [Documentation](https://mlflow.org/docs/latest/index.html)
+1. Update `config.yaml`  
+2. Update `secrets.yaml` *(Optional)*  
+3. Update `params.yaml`  
+4. Define entities  
+5. Configure pipeline manager inside `src/config`  
+6. Build pipeline components  
+7. Create pipeline orchestration  
+8. Integrate with `main.py`  
+9. Define `dvc.yaml` for pipeline stages  
+
+---
+
+## 🧠 MLflow Integration
+
+**Documentation:** [MLflow Docs](https://mlflow.org/docs/latest/index.html)
+
 
 ##### cmd
 - mlflow ui
